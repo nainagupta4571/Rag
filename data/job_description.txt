@@ -1,0 +1,20 @@
+We are hiring a Software Engineer (Backend/AI Focus).
+
+Requirements:
+- Strong experience in Python, Django, FastAPI
+- Hands-on with Machine Learning / Deep Learning
+- Experience with AWS (EC2, S3, Lambda)
+- Knowledge of system design and distributed systems
+- Experience with Kafka, Redis, and message queues
+- Familiar with Docker, Kubernetes (advanced level)
+- Experience in microservices architecture
+- Knowledge of GraphQL APIs
+- Experience with GoLang or Rust
+- Strong experience in data engineering (ETL pipelines, Spark)
+
+Responsibilities:
+- Design scalable backend systems and microservices
+- Build ML-powered features and pipelines
+- Work with large-scale distributed systems
+- Optimize backend performance and scalability
+- Collaborate with data engineers and ML teams

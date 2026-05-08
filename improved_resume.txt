@@ -1,0 +1,70 @@
+Here's an improved version of the resume, tailored to the job description:
+
+**Chandni Gupta**
+**Contact Information:**
+
+* Phone: +91 8543078447
+* Email: [chandnigupta271002@gmail.com](mailto:chandnigupta271002@gmail.com)
+* LinkedIn: [LinkedIn Profile]
+* GitHub: [GitHub Profile]
+* LeetCode: [LeetCode Profile]
+* Portfolio: [Portfolio Website]
+
+**Summary:**
+Highly motivated and detail-oriented Software Engineer with a strong background in Python, Django, and FastAPI. Proficient in Machine Learning and Deep Learning, with hands-on experience in building scalable backend systems and microservices. Proficient in AWS, Docker, Kubernetes, and GraphQL APIs.
+
+**Technical Skills:**
+
+* Programming Languages: Python, Java, JavaScript (ES6+), TypeScript
+* Web Technologies: HTML, CSS, React.js, Bootstrap, RESTful APIs, NestJS
+* AI & NLP Tools: ChatGPT, Claude, Gemini, OpenRouter API, Prompt Engineering
+* Frameworks, Backend & Databases: Java Spring Boot, MySQL, PostgreSQL
+* Development Tools: Git/GitHub, VS Code, Jira, Jenkins
+* Core CS Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS, Operating Systems, Computer Networks
+
+**Experience:**
+
+**SDE Intern, ACKO General Insurance Limited Bangalore (July 2024 – Jun 2025)**
+
+* Built modular UI components with React.js, Next.js (v14), and JavaScript, boosting user engagement by 15%.
+* Migrated Service OS to Next.js 14, reducing build size by 35% and improving load time by 40%.
+* Developed & consumed Spring Boot APIs with 100% consistent response structures across 4+ microservices.
+* Integrated a Data Aggregator layer, cutting API response time by 30%.
+* Delivered features in Service OS & CX360, including UI development, testing, and deployment fixes.
+* Attended KT sessions and improved onboarding efficiency by 50% through documentation.
+* Automated workflows via Jenkins; maintained CI/CD using Kubernetes and tracked sprints with Jira (+25% efficiency).
+* Used dynamic imports to cut bundle size by ~20%.
+
+**Projects:**
+
+* **Real-Time Chat Platform (Live)**: Built a real-time messaging system using Socket.IO, supporting 1:1 and group chats with typing indicators.
+* **Ai-Tutor (Live)**: Developed a responsive AI tutor using HTML, CSS, JS, and OpenRouter API with Tutor & Quiz modes.
+
+**Certifications:**
+
+* NPTEL - Data Base Management System (Elite) Certificate
+* NPTEL – Programming in Modern C++ Certificate
+* Generative AI for Everyone Certificate
+* AWS Cloud Practitioner Essentials Certificate
+
+**Achievements:**
+
+* Solved 450+ DSA questions on LeetCode.
+* Achieved Best Idea Award in Product Launch Event at GCET by Galgotias Educational Institutions.
+* Achieved 1st rank in school in high-school CBSE board examination.
+
+**Soft Skills:**
+
+* Teamwork
+* Time Management
+* Communication
+* Leadership
+* Adaptability
+
+**Education:**
+
+* Bachelor of Technology in Computer Science & Engineering, Galgotias College of Engineering & Technology (2021 – 2025)
+* Intermediate, Woodland Academy, Gorakhpur U.P. (2019 – 2020)
+* High School, R.P.M Academy, Gorakhpur U.P. (2016 – 2018)
+
+This improved version of the resume is clean, ATS-optimized, and tailored to the job description. It highlights the candidate's technical skills, experience, and achievements, while also showcasing their soft skills and education.
