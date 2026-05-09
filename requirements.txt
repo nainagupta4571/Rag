@@ -1,6 +1,8 @@
+streamlit
 langchain
 langchain-core
 langchain-community
+langchain-text-splitters
 pypdf
 pymupdf
 sentence-transformers
@@ -11,3 +13,10 @@ python-dotenv
 typesense
 langchain_openai
 langgraph
+reportlab
+pandas
+numpy
+openpyxl
+python-docx
+torch
+transformers
