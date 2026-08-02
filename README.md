@@ -11,7 +11,7 @@ An AI-powered Resume Analyzer that helps job seekers evaluate and optimize their
 Add your demo video link here:
 
 ```
-https://your-demo-video-link
+[DEMO VIDEO LINK](https://drive.google.com/file/d/1zEuIUzDCQ-QYAG9Y4jz4Kk-uqHKqrBaS/view)
 ```
 
 ---
@@ -145,42 +145,4 @@ streamlit run ui.py
    * Improvement Suggestions
 7. Generate and download an ATS-optimized resume.
 
----
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Resume Upload
-* AI Chat
-* ATS Analysis
-* Generated Resume
-
----
-
-## 🔮 Future Enhancements
-
-* DOCX Resume Support
-* Multi-Resume Comparison
-* Chat History
-* Authentication
-* Multiple LLM Support
-* Resume Templates
-* Interview Question Generator
-
----
-
-## 👩‍💻 Author
-
-**Naina Gupta**
-
-LinkedIn: *(Add your LinkedIn URL)*
-
-GitHub: *(Add your GitHub Profile URL)*
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
