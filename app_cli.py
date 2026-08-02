@@ -16,7 +16,6 @@ if __name__ == "__main__":
 
     rag_search = RAGSearch("faiss_store")
 
-    # ✅ LOOP SHOULD BE INSIDE MAIN
     while True:
         print("\n1. Ask Question")
         print("2. ATS Score")
