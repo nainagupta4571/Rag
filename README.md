@@ -11,8 +11,7 @@ An AI-powered Resume Analyzer that helps job seekers evaluate and optimize their
 Add your demo video link here:
 
 ```
-[DEMO VIDEO LINK](https://drive.google.com/file/d/1zEuIUzDCQ-QYAG9Y4jz4Kk-uqHKqrBaS/view)
-```
+🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1zEuIUzDCQ-QYAG9Y4jz4Kk-uqHKqrBaS/view)```
 
 ---
 
