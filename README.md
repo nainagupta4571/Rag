@@ -10,10 +10,12 @@ An AI-powered Resume Analyzer that helps job seekers evaluate and optimize their
 
 Demo video link here:
 
-```
+---
+
 (https://drive.google.com/file/d/1zEuIUzDCQ-QYAG9Y4jz4Kk-uqHKqrBaS/view)```
 
 ---
+
 
 ## ✨ Features
 
