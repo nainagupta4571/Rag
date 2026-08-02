@@ -1,6 +1,8 @@
-Here's an improved version of the resume, tailored to the job description:
+Here's an improved version of the resume, optimized for ATS (Applicant Tracking Systems) and tailored to the job description:
 
 **Chandni Gupta**
+**Software Engineer (Backend/AI Focus)**
+
 **Contact Information:**
 
 * Phone: +91 8543078447
@@ -8,63 +10,54 @@ Here's an improved version of the resume, tailored to the job description:
 * LinkedIn: [LinkedIn Profile]
 * GitHub: [GitHub Profile]
 * LeetCode: [LeetCode Profile]
-* Portfolio: [Portfolio Website]
 
 **Summary:**
-Highly motivated and detail-oriented Software Engineer with a strong background in Python, Django, and FastAPI. Proficient in Machine Learning and Deep Learning, with hands-on experience in building scalable backend systems and microservices. Proficient in AWS, Docker, Kubernetes, and GraphQL APIs.
+Highly motivated and experienced Software Engineer with expertise in building scalable web applications, AI-powered products, and backend systems using Python, Django, FastAPI, and LLM technologies. Proficient in designing and optimizing large-scale distributed systems, microservices architecture, and data engineering pipelines.
 
 **Technical Skills:**
 
-* Programming Languages: Python, Java, JavaScript (ES6+), TypeScript
-* Web Technologies: HTML, CSS, React.js, Bootstrap, RESTful APIs, NestJS
-* AI & NLP Tools: ChatGPT, Claude, Gemini, OpenRouter API, Prompt Engineering
-* Frameworks, Backend & Databases: Java Spring Boot, MySQL, PostgreSQL
-* Development Tools: Git/GitHub, VS Code, Jira, Jenkins
-* Core CS Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS, Operating Systems, Computer Networks
+* Programming Languages: Python, JavaScript (ES6+), TypeScript, C++
+* Frameworks: Django, FastAPI, React.js, Next.js, Node.js
+* Databases: MySQL, PostgreSQL, MongoDB
+* Cloud & DevOps: AWS (Cloud Practitioner), Jenkins, CI/CD, Git, GitHub
+* Testing & Tools: JMeter, Jira, Log Analysis, Debugging, Grafana
+* AI & ML: Generative AI, LLM APIs, LangChain, Prompt Engineering, RAG Pipelines, Agentic AI, AI Automation
+* Operating Systems: Windows, Linux
 
 **Experience:**
 
-**SDE Intern, ACKO General Insurance Limited Bangalore (July 2024 – Jun 2025)**
+**Software Engineer Trainee, BusinessNext (Dec 2025 - Present)**
 
-* Built modular UI components with React.js, Next.js (v14), and JavaScript, boosting user engagement by 15%.
-* Migrated Service OS to Next.js 14, reducing build size by 35% and improving load time by 40%.
-* Developed & consumed Spring Boot APIs with 100% consistent response structures across 4+ microservices.
-* Integrated a Data Aggregator layer, cutting API response time by 30%.
-* Delivered features in Service OS & CX360, including UI development, testing, and deployment fixes.
-* Attended KT sessions and improved onboarding efficiency by 50% through documentation.
-* Automated workflows via Jenkins; maintained CI/CD using Kubernetes and tracked sprints with Jira (+25% efficiency).
-* Used dynamic imports to cut bundle size by ~20%.
+* Engineered root-cause analysis workflows for production CRM issues using structured log analysis and systematic debugging, accelerating defect resolution across the application lifecycle.
+* Built and executed automated API performance and load-testing frameworks using JMeter, integrating Grafana and InfluxDB for real-time monitoring and bottleneck detection across microservices.
+
+**SDE Intern, ACKO General Insurance Limited (Jul 2024 - Jun 2025)**
+
+* Developed reusable UI components using React.js and Next.js, improving user experience and engagement.
+* Led Next.js 14 migration, reducing build size by 35% and improving page load time by 40%.
+* Designed and integrated REST APIs across microservices, improving API performance by 30%.
 
 **Projects:**
 
-* **Real-Time Chat Platform (Live)**: Built a real-time messaging system using Socket.IO, supporting 1:1 and group chats with typing indicators.
-* **Ai-Tutor (Live)**: Developed a responsive AI tutor using HTML, CSS, JS, and OpenRouter API with Tutor & Quiz modes.
-
-**Certifications:**
-
-* NPTEL - Data Base Management System (Elite) Certificate
-* NPTEL – Programming in Modern C++ Certificate
-* Generative AI for Everyone Certificate
-* AWS Cloud Practitioner Essentials Certificate
-
-**Achievements:**
-
-* Solved 450+ DSA questions on LeetCode.
-* Achieved Best Idea Award in Product Launch Event at GCET by Galgotias Educational Institutions.
-* Achieved 1st rank in school in high-school CBSE board examination.
-
-**Soft Skills:**
-
-* Teamwork
-* Time Management
-* Communication
-* Leadership
-* Adaptability
+* **LLM-Powered AI Tutor with Generative AI Integration**: Engineered an AI-powered tutoring platform leveraging Mistral-7B via OpenRouter API, enabling real-time Q&A, quiz generation, and automated response synthesis using prompt engineering and LLM orchestration.
+* **Real-Time Chat Platform with AI Integration**: Developed a scalable real-time chat system using Socket.IO supporting 100+ concurrent users with sub-100ms latency.
 
 **Education:**
 
-* Bachelor of Technology in Computer Science & Engineering, Galgotias College of Engineering & Technology (2021 – 2025)
-* Intermediate, Woodland Academy, Gorakhpur U.P. (2019 – 2020)
-* High School, R.P.M Academy, Gorakhpur U.P. (2016 – 2018)
+* **Bachelor of Technology in Computer Science & Engineering**, GCET - Dr. A.P.J. Abdul Kalam Technical University (2021 - 2025)
+	+ CGPA: 8.62/10
 
-This improved version of the resume is clean, ATS-optimized, and tailored to the job description. It highlights the candidate's technical skills, experience, and achievements, while also showcasing their soft skills and education.
+**Certifications:**
+
+* **Generative AI with Large Language Models**, Coursera (DeepLearning.AI) Certificate
+* **Generative AI for Everyone**, Coursera (DeepLearning.AI) Certificate
+* **AWS Cloud Practitioner Essentials**, Amazon Web Services
+* **NPTEL - Database Management System (Elite) Certificate**
+* **NPTEL - Programming in Modern C++ Certificate**
+
+**Achievements:**
+
+* Solved 480+ DSA problems on LeetCode — strong problem-solving and algorithmic thinking foundation.
+* Best Idea Award — Product Launch Event, Galgotias Educational Institutions.
+* Resolved production issues through code reviews, static analysis, and debugging, reducing defects by 18%.
+* Enhanced Jenkins CI/CD pipelines, increasing deployment efficiency by 25%.
